@@ -9,7 +9,7 @@ This is our fourth project and its a Quiz.
   <li>For answering any wrong answer the timer will be decreased by 10 seconds.</li>
   <li>The quiz will end if you answer all the questions or the time ends.</li>
   </ol>
-  <br><br>
+  
  After completing the quiz you will be asked to enter your name so the score can be stored locally.
  You can view the score by clicking th View Highscore link in the top left corner
 <h3>Link to the application</h3>
