@@ -28,7 +28,7 @@ var timeInterval = "";
 
 //The object which will contain all the questions ans their possible answers
 var qstns = {
-  question1: {
+    question1: {
     question: "The Capital of Malaysia is:",
     option1: "Tehran",
     option2: "Kuala Lampur",
@@ -59,6 +59,54 @@ var qstns = {
     option3: "Manama",
     option4: "Adis Ababa",
     correct: "Riyadh",
+  },
+  question5: {
+    question: "The capital of India is:",
+    option1: "Mumbai",
+    option2: "Jaipur",
+    option3: "Gujrat",
+    option4: "Delhi",
+    correct: "Delhi",
+  },
+  question6: {
+    question: "The capital of China is:",
+    option1: "Beijing",
+    option2: "Tokyo",
+    option3: "Seoul",
+    option4: "Shanghai",
+    correct: "Beijing",
+  },
+  question7: {
+    question: "The capital of Srilanka is:",
+    option1: "Kandy",
+    option2: "Kerala",
+    option3: "Colombo",
+    option4: "Negombo",
+    correct: "Colombo",
+  },
+  question8: {
+    question: "The capital of Afghanistan is:",
+    option1: "Tehran",
+    option2: "Zabul",
+    option3: "Kabul",
+    option4: "Qandahar",
+    correct: "Kabul",
+  },
+  question9: {
+    question: "The capital of Turkey is:",
+    option1: "Ankara",
+    option2: "Istanbul",
+    option3: "Izmir",
+    option4: "Konya",
+    correct: "Ankara",
+  },
+  question10: {
+    question: "The capital of Syria is:",
+    option1: "Beirut",
+    option2: "Jeddah",
+    option3: "Damascus",
+    option4: "Aleppo",
+    correct: "Damascus",
   },
 };
 
