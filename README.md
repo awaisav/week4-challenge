@@ -8,6 +8,7 @@ This is our fourth project and its a Quiz.
   <li>For answering every correct answer you will get 10 point and the timer will be increased by 10 seconds.</li>
   <li>For answering any wrong answer the timer will be decreased by 10 seconds.</li>
   <li>The quiz will end if you answer all the questions or the time ends.</li>
+  </ol>
   <br><br>
  After completing the quiz you will be asked to enter your name so the score can be stored locally.
  You can view the score by clicking th View Highscore link in the top left corner
@@ -16,5 +17,5 @@ Here is the link to the application: <a href="https://awaisav.github.io/week4-ch
 
 Screenshots:
 <h2>Screenshots</h2>
-<img src="https://github.com/awaisav/week4-challenge/blob/main/images/Quiz1.png" width="70%" height="500px">
+<img src="https://github.com/awaisav/week4-challenge/blob/main/images/Quiz1.png" width="60%" height="400px">
 <img src="https://github.com/awaisav/week4-challenge/blob/main/images/Quiz2.png" width="70%" height="500px">
